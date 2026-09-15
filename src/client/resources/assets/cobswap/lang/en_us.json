@@ -1,0 +1,6 @@
+{
+  "key.category.cobswap.main": "CobSwap",
+  "key.cobswap.toggle": "Toggle CobSwap",
+  "key.cobswap.delay_up": "Increase CobSwap Delay",
+  "key.cobswap.delay_down": "Decrease CobSwap Delay"
+}
